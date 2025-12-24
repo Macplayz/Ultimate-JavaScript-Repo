@@ -1,4 +1,4 @@
-# Ultimate JavaScript Repository
+# <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="40" width="40" align="top"/>  Ultimate JavaScript Repository
 
 A comprehensive collection of JavaScript concepts, algorithms, and projects ranging from vanilla JS to backend logic. This repository includes examples of ES6+ syntax, DOM manipulation, data structures, and optimized algorithms.
 
